@@ -1,0 +1,24 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.btn2{
+    background-color: #50BD16 !important;
+    color: rgb(255, 255, 255) !important;
+    margin: 15px !important;
+  }
+
+  .btnCancelar{
+    background-color: #a1a1a1 !important;
+    color: rgb(255, 255, 255) !important;
+    margin: 15px !important;
+  }
+
+  .textos2{
+    color:  #3c7000 !important;
+    font-size: 40px !important ;
+  }
+
+.cor{
+  border-color: #3c7000;
+}

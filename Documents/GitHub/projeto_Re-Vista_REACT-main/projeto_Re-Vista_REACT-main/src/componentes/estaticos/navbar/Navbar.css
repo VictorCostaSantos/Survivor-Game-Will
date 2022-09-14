@@ -1,0 +1,54 @@
+.opa{
+    opacity: 80%;
+    
+}
+
+.fundo3 {
+    background-color:#ffffff;
+    flex-direction: row;
+    justify-content: space-between;   
+    opacity: 100%;
+    color: black;
+}
+
+.caixa{
+ display: flex;
+flex-direction: row;
+}
+
+.caixa1{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.caixa2{
+    display:flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.center{
+    display: flex !important;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.cursor {  
+    cursor: pointer;   
+    color:#36607a;
+    font-weight: bold !important;
+}
+
+.cursor:hover{
+    color: #df604f;
+    font-weight: 900;
+}
+
+a:active{
+    color: #df604f;
+}

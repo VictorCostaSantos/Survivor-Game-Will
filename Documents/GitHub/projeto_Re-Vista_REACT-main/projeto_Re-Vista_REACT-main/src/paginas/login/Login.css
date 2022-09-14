@@ -1,0 +1,33 @@
+
+.imagem{background-image: url(https://images.pexels.com/photos/6348123/pexels-photo-6348123.jpeg?auto=compress&cs=tinysrgb&w=1600);
+background-repeat: no-repeat;
+width: 100vh;
+min-height: 100vh;
+background-size: cover;
+background-position: center;}
+
+.fundo4{
+    background-color: #F5FEF2;
+}
+
+.btn{
+  background-color: #50BD16 !important; 
+  text-decoration: none !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.texto1{
+    color:#3c7000;
+    
+}
+
+.cadastro{
+    color: #3c7000;
+    text-decoration: none;
+    font-weight: bold !important;
+}
+
